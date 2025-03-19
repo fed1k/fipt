@@ -13,7 +13,7 @@ const TelegramLoginButton: React.FC<TelegramLoginButtonProps> = (props) => {
   return (
     <TelegramLoginButtonUI
       {...props}
-      botName={props.botName || 'Chicktok_bot'}
+      botName={props.botName || 'mychannelfinderbitch_bot'}
       btnRef={telegramBtnRef}
       scriptLoaded={scriptLoaded}
       onAuthCallback={handleTelegramAuth}

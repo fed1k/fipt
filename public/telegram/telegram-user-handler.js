@@ -46,7 +46,7 @@
         initData: tgWebAppData || '',
         // Add a note about which bot we're using
         botInfo: {
-          username: 'Chicktok_bot'
+          username: 'mychannelfinderbitch_bot'
         }
       }
     };

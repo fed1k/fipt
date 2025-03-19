@@ -15,7 +15,7 @@ const TelegramLoginOptions = ({ onSuccess }: TelegramLoginOptionsProps) => {
 
   return (
     <TelegramLoginButton 
-      botName="Chicktok_bot"
+      botName="mychannelfinderbitch_bot"
       onAuth={handleTelegramAuth}
       buttonSize="large"
       cornerRadius={8}

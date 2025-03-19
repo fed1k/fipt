@@ -10,7 +10,7 @@ interface TelegramLoginButtonUIProps extends TelegramLoginButtonProps {
 
 // The UI component just handles rendering the button container and loading the script
 const TelegramLoginButtonUI: React.FC<TelegramLoginButtonUIProps> = ({
-  botName = 'Chicktok_bot',
+  botName = 'mychannelfinderbitch_bot',
   buttonSize = 'medium',
   cornerRadius = 8,
   requestAccess = 'write',
